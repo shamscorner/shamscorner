@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shamim Hossain</h1>
 <h3 align="center">A passionate <a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://vuejs.org/" target="_blank">Vue/Nuxt</a>, <a href="https://flutter.dev/" target="_blank">Flutter</a>, <a href="https://nodejs.org/" target="_blank">Node.js</a><br> Full-Stack web and mobile apps developer <br>with Machine Learning Experience.</h3>
-
 <br>
-<h2 align="center">
+<p align="center">
 	👉 &nbsp;<a href="https://www.shamscorner.com/" target="_blank">Check out my portfolio website!</a>
-</h2>
+</p>
 
 <br>
 
