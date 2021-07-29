@@ -76,3 +76,13 @@
 	<a href="https://api.whatsapp.com/send?phone=01733412606" target="blank"><img align="center" src="https://raw.githubusercontent.com/shamscorner/images/main/logo-whatsapp.svg" alt="shamscorner" height="30" width="40" /></a>
 	<a href="https://teams.microsoft.com/l/chat/0/0?users=hossains159@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shamscorner/images/main/logo-ms-teams.svg" alt="shamscorner" height="30" width="40" /></a>
 </p>
+
+<br>
+
+## ❤ Views and Followers
+
+<br>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shamscorner">
+</a>
+<a href="https://github.com/shamscorner?tab=followers"><img src="https://img.shields.io/github/followers/shamscorner?label=Followers&style=social" alt="GitHub Badge"></a>
