@@ -1,11 +1,12 @@
-<a href="https://www.shamscorner.com/"><img src="https://raw.githubusercontent.com/shamscorner/images/main/gh-profile-banner.png" width="100%" height="auto"/></a>
+<a href="https://www.shamscorner.com/" target="_blank"><img src="https://raw.githubusercontent.com/shamscorner/images/main/gh-profile-banner.png" width="100%" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shamim Hossain</h1>
 <h3 align="center">A passionate <a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://vuejs.org/" target="_blank">Vue/Nuxt</a>, <a href="https://flutter.dev/" target="_blank">Flutter</a>, <a href="https://nodejs.org/" target="_blank">Node.js</a><br> Full-Stack web and mobile apps developer <br>with Machine Learning Experience.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamscorner&label=Profile%20views&color=0e75b6&style=flat" alt="shamscorner" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamscorner" alt="shamscorner" /></a> </p> -->
+<br>
+<h2 align="center">
+	👉 &nbsp;<a href="https://www.shamscorner.com/" target="_blank">Check out my portfolio website!</a>
+</h2>
 
 <br>
 
