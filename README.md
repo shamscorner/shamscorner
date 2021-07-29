@@ -1,4 +1,4 @@
-<a href="https://www.shamscorner.com/"><img src="https://raw.githubusercontent.com/shamscorner/images/main/undraw_digital_nomad_9kgl.svg" width="auto" height="175px"/></a>
+<a href="https://www.shamscorner.com/"><img src="https://raw.githubusercontent.com/shamscorner/images/main/gh-profile-banner.png" width="100%" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shamim Hossain</h1>
 <h3 align="center">A passionate <a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://vuejs.org/" target="_blank">Vue/Nuxt</a>, <a href="https://flutter.dev/" target="_blank">Flutter</a>, <a href="https://nodejs.org/" target="_blank">Node.js</a><br> Full-Stack web and mobile apps developer <br>with Machine Learning Experience.</h3>
@@ -10,8 +10,6 @@
 <br>
 
 ## 🙋‍♂️ About Me
-
-<br>
 
 - 🎓 Computer Science engineer, graduated in 2017 from [RUET](https://en.wikipedia.org/wiki/Rajshahi_University_of_Engineering_%26_Technology)
 - 🚀 Full-stack freelance developer at Upwork ([My Profile](https://www.upwork.com/freelancers/~017677c090f8fd7a34))
