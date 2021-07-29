@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Computer Science engineer, graduated in 2017 from [RUET](https://en.wikipedia.org/wiki/Rajshahi_University_of_Engineering_%26_Technology)
-- 🚀 Full-stack freelance developer at Upwork ([My Profile](https://www.upwork.com/freelancers/~017677c090f8fd7a34))
+- 🚀 Full-stack freelance developer at [Upwork](https://upwork.com/) ([My Profile](https://www.upwork.com/freelancers/~017677c090f8fd7a34))
 - 🔭 I’m currently working on [My personal Blog](https://www.shamscorner.com/) using [Nuxt content](https://content.nuxtjs.org/)
 
 - 🌱 I’m currently learning [ML5.js](https://ml5js.org/) and [Data mining algorithms](http://www.philippe-fournier-viger.com/spmf/)
@@ -48,7 +48,6 @@
 
 ## 📊 My Github Stats
 
-<br/>
 <a href="https://github.com/shamscorner/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shamscorner&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/shamscorner/github-readme-stats"><img alt="Shamim Hossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamscorner&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
