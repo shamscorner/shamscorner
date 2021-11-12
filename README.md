@@ -13,7 +13,7 @@
 
 - 🎓 Computer Science engineer, graduated in 2017 from [RUET](https://en.wikipedia.org/wiki/Rajshahi_University_of_Engineering_%26_Technology)
 - 🚀 Full-stack freelance developer at [Upwork](https://upwork.com/) ([My Profile](https://www.upwork.com/freelancers/~017677c090f8fd7a34))
-- 🔭 I’m currently working on [My personal Blog](https://www.shamscorner.com/) using [Nuxt content](https://content.nuxtjs.org/)
+- 🔭 I’m currently working on a new side project. This is a [Vuetify](https://vuetifyjs.com/) look-alike component library but made with [Tailwind CSS](https://tailwindcss.com/) ([Windi CSS](https://windicss.org/)).
 
 - 🌱 I’m currently learning [ML5.js](https://ml5js.org/) and [Data mining algorithms](http://www.philippe-fournier-viger.com/spmf/)
 
@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences - [check out my site](https://www.shamscorner.com/)
 
-- ⚡ Fun fact about me - I play "Carrom board" and often read different kinds of documentations.
+- ⚡ Fun fact about me - I play "Carrom board" and often read different kinds of documentations - Yeh I know 😀, it's a weird hobby.
 
 <br>
 
