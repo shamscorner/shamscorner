@@ -1,7 +1,7 @@
 <a href="https://www.shamscorner.com/" target="_blank"><img src="https://raw.githubusercontent.com/shamscorner/images/main/gh-profile-banner.png" width="100%" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shamim Hossain</h1>
-<h3 align="center">A passionate <a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://vuejs.org/" target="_blank">Vue/Nuxt</a>, <a href="https://flutter.dev/" target="_blank">Flutter</a>, <a href="https://nodejs.org/" target="_blank">Node.js</a><br> Full-Stack web and mobile apps developer <br>with Machine Learning Experience.</h3>
+<h3 align="center">A passionate <a href="https://vuejs.org/" target="_blank">Vue</a>/<a href="https://nuxt.com/" target="_blank">Nuxt</a>, <a href="https://nestjs.com/" target="_blank">NestJS</a>, <a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://nodejs.org/" target="_blank">Node.js</a><br> Full-Stack web and mobile apps developer <br>with Machine Learning Experience.</h3>
 <br>
 <p align="center">
 	👉 &nbsp;<a href="https://www.shamscorner.com/" target="_blank">Check out my portfolio website!</a>
@@ -12,8 +12,9 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Computer Science engineer, graduated in 2017 from [RUET](https://en.wikipedia.org/wiki/Rajshahi_University_of_Engineering_%26_Technology)
+- 💼 Senior Frontend Developer [@secureship](https://twitter.com/Secureship)
 - 🚀 Full-stack freelance developer at [Upwork](https://upwork.com/) ([My Profile](https://www.upwork.com/freelancers/~017677c090f8fd7a34))
-- 🔭 I’m currently working on a new side project. This is a [Vuetify](https://vuetifyjs.com/) look-alike component library but made with [Tailwind CSS](https://tailwindcss.com/) ([Windi CSS](https://windicss.org/)).
+- 🔭 I’m currently working on a free invoice generator app [oinvogenny](https://oinvogenny.shamscorner.com/)
 
 - 🌱 I’m currently learning [ML5.js](https://ml5js.org/) and [Data mining algorithms](http://www.philippe-fournier-viger.com/spmf/)
 
