@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/shamscorner"><img src="https://api.daily.dev/devcards/0a00d050c8f1429b8240d6b5da44cf32.png?r=7fz" width="300" alt="Shamim Hossain's Dev Card"/></a>
+<a href="https://app.daily.dev/shamscorner"><img src="https://github.com/shamscorner/shamscorner/blob/main/devcard.svg" width="300" alt="Shamim Hossain's Dev Card"/></a>
 
 <br>
 
