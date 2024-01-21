@@ -1,9 +1,11 @@
-<a href="https://www.shamscorner.com/" target="_blank"><img src="https://raw.githubusercontent.com/shamscorner/images/main/gh-profile-banner.png" width="100%" height="auto"/></a>
+<a href="https://app.daily.dev/shamscorner"><img src="https://api.daily.dev/devcards/0a00d050c8f1429b8240d6b5da44cf32.png?r=7fz" width="300" alt="Shamim Hossain's Dev Card"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shamim Hossain</h1>
-<h3 align="center">A passionate <a href="https://vuejs.org/" target="_blank">Vue</a>/<a href="https://nuxt.com/" target="_blank">Nuxt</a>, <a href="https://nestjs.com/" target="_blank">NestJS</a>, <a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://nodejs.org/" target="_blank">Node.js</a><br> Full-Stack web and mobile apps developer <br>with Machine Learning Experience.</h3>
 <br>
-<p align="center">
+
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shamim Hossain</h1>
+<h3>A passionate <a href="https://vuejs.org/" target="_blank">Vue</a>/<a href="https://nuxt.com/" target="_blank">Nuxt</a>, <a href="https://nestjs.com/" target="_blank">NestJS</a>, <a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://nodejs.org/" target="_blank">Node.js</a><br> Full-Stack web and mobile apps developer <br>with Machine Learning Experience.</h3>
+<br>
+<p>
 	👉 &nbsp;<a href="https://www.shamscorner.com/" target="_blank">Check out my portfolio website!</a>
 </p>
 
