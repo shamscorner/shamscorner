@@ -1,16 +1,17 @@
 # Hi 👋 My name is Shamim Hossain
 
-## Senior Full-stack Developer & AI Engineer
+## Senior Full-stack Developer, Tech Lead, Founder, CTO, & AI Engineer
 
-Graduated Computer Science Engineer from RUET(2017), specializing in Major Frontend & Backend frameworks on full-stack development with more than ✅ 8+ years of experience, including Machine Learning and Data Mining. Currently, working as Frontend Product Lead on my current company Secureship.
+Technical Lead with ✅ 10+ years of experience, Part-time Founder & CTO at shamscorner LLC, AI engineer, web scrapping & Data Mining expert. Graduated Computer Science Engineer (2017) specializing in every major frontend & backend javascript frameworks. Currently, working as Founder & CTO at shamscorner LLC which is a software SaaS development agency.
 
 - 🎓  Computer Science engineer, graduated in 2017
-- 💼  Senior Frontend Developer at [Secureship](https://secureship.ca) (4+ years)
+- 💼  Worked as a Frontend Lead at [Secureship](https://secureship.ca) (4+ years)
 - 🖥️  See my portfolio at [My Portfolio](https://shamim.shamscorner.com)
-- ✉️  You can contact me at [hossains159@gmail.com](mailto:hossains159@gmail.com)
-- 🚀  I'm currently working on [A bookmark manager application](https://shamsmark.hobenakicoffee.com)
-- 🧠  I'm learning AI Engineering
-- 🤝  I'm open to collaborating on Interesting Projects related to Vue, Nuxt, Nestjs.
+- ✉️  You can contact me at [hossains159@gmail.com](mailto:shamim@shamscorner.com)
+- 🚀  I'm currently working on [A bookmark manager application](https://kuikmark.com)
+- 🚀  I'm also creating a course platform [Code with Shamscorner](https://codewith.shamscorner.com)
+- 🧠  I'm learning AI Engineering in daily basis
+- 🤝  I'm open to collaborating on Interesting Projects related to web technologies
 - ⚡  I am also a "Founder & CTO" of a software agency called [shamscorner LLC](https://shamscorner.com/)
 
 <a href="https://www.github.com/shamscorner" target="_blank" rel="noreferrer"><img
