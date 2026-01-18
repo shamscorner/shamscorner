@@ -8,7 +8,7 @@ Technical Lead with ✅ 10+ years of experience, Part-time Founder & CTO at sham
 - 💼  Worked as a Frontend Lead at [Secureship](https://secureship.ca) (4+ years)
 - 🖥️  See my portfolio at [My Portfolio](https://shamim.shamscorner.com)
 - ✉️  You can contact me at [shamim@shamscorner.com](mailto:shamim@shamscorner.com)
-- 🚀  I'm currently working on [A bookmark manager application](https://kuikmark.com)
+- 🚀  I'm currently working on [An awesome full-stack development course](https://codewith.shamscorner.com/courses/vibestrym)
 - 🚀  I'm also creating a course platform [Code with Shamscorner](https://codewith.shamscorner.com)
 - 🧠  I'm learning AI Engineering in daily basis
 - 🤝  I'm open to collaborating on Interesting Projects related to web technologies
